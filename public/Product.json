@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "product_img": "https://i.ibb.co.com/KzFr8Rg0/p-1.jpg",
+      "product_name": "Football",
+      "product_category": "Ball Sports",
+      "product_rating": 4.8,
+      "product_price": 29.99,
+      "product_details": "High-quality leather football suitable for professional matches.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 2,
+      "product_img": "https://i.ibb.co.com/XZM9k60X/p-2.jpg",
+      "product_name": " Basketball",
+      "product_category": "Ball Sports",
+      "product_rating": 4.7,
+      "product_price": 34.99,
+      "product_details": "Durable indoor and outdoor basketball with superior grip.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 3,
+      "product_img": "https://i.ibb.co.com/BVK0w551/p-3.webp",
+      "product_name": " Racket",
+      "product_category": "Racket Sports",
+      "product_rating": 4.5,
+      "product_price": 89.99,
+      "product_details": "Lightweight graphite tennis racket for professional players.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 4,
+      "product_img": "https://i.ibb.co.com/vvZq5dMh/p-4.jpg",
+      "product_name": " Baseball ",
+      "product_category": "Ball Sports",
+      "product_rating": 4.6,
+      "product_price": 49.99,
+      "product_details": "Premium leather glove for baseball catchers and fielders.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 5,
+      "product_img": "https://i.ibb.co.com/YBg5Ktm0/p-5.jpg",
+      "product_name": "Yoga Mat",
+      "product_category": "Fitness Equipment",
+      "product_rating": 4.9,
+      "product_price": 24.99,
+      "product_details": "Non-slip, high-density yoga mat for all exercises.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 6,
+      "product_img": "https://i.ibb.co.com/23dP0gr9/p-6.jpg",
+      "product_name": "Badminton ",
+      "product_category": "Racket Sports",
+      "product_rating": 4.3,
+      "product_price": 39.99,
+      "product_details": "Two lightweight badminton rackets with shuttlecocks.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 7,
+      "product_img": "https://i.ibb.co.com/7JR3b91j/p-7.jpg",
+      "product_name": " Dumbbells",
+      "product_category": "Fitness Equipment",
+      "product_rating": 4.8,
+      "product_price": 79.99,
+      "product_details": "Set of adjustable dumbbells with ergonomic grip handles.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 8,
+      "product_img": "https://i.ibb.co.com/S7Nbgn7W/p-9.webp",
+      "product_name": "Cycling ",
+      "product_category": "Cycling Equipment",
+      "product_rating": 4.7,
+      "product_price": 44.99,
+      "product_details": "Lightweight and aerodynamic helmet for cycling safety.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 9,
+      "product_img": "https://i.ibb.co.com/dJ2t0VTt/p-8.jpg",
+      "product_name": "Golf Club ",
+      "product_category": "Golf Equipment",
+      "product_rating": 4.5,
+      "product_price": 199.99,
+      "product_details": "Complete set of golf clubs for beginner to advanced players.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 10,
+      "product_img": "https://i.ibb.co.com/SD5G3xwB/p-10.webp",
+      "product_name": "Gloves",
+      "product_category": "Combat Sports",
+      "product_rating": 4.6,
+      "product_price": 39.99,
+      "product_details": "High-quality leather boxing gloves for training and competition.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 11,
+      "product_img": "https://i.ibb.co.com/ztPNJQT/googles.jpg",
+      "product_name": "Goggles",
+      "product_category": "Water Sports",
+      "product_rating": 4.4,
+      "product_price": 14.99,
+      "product_details": "Anti-fog and UV protection swimming goggles.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 12,
+      "product_img": "https://i.ibb.co.com/YFrjC8kz/p-11.jpg",
+      "product_name": " Skateboard",
+      "product_category": "Extreme Sports",
+      "product_rating": 4.8,
+      "product_price": 59.99,
+      "product_details": "Durable maple wood skateboard for tricks and cruising.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 13,
+      "product_img": "https://i.ibb.co.com/93bbkwjg/p-12.jpg",
+      "product_name": "Table Tennis  ",
+      "product_category": "Racket Sports",
+      "product_rating": 4.5,
+      "product_price": 29.99,
+      "product_details": "Two high-quality paddles with professional-grade rubber.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 14,
+      "product_img": "https://i.ibb.co.com/9kDF9Msp/soccar.jpg",
+      "product_name": " Soccer ",
+      "product_category": "Ball Sports",
+      "product_rating": 4.7,
+      "product_price": 89.99,
+      "product_details": "Easy-to-assemble soccer goal for backyard or training use.",
+      "stock_availability": "Avaliable"
+    },
+    {
+      "id": 15,
+      "product_img": "https://i.ibb.co.com/ds5Q2gZc/p-14.jpg",
+      "product_name": " Jump Rope",
+      "product_category": "Fitness Equipment",
+      "product_rating": 4.6,
+      "product_price": 19.99,
+      "product_details": "Adjustable speed jump rope for cardio and fitness training.",
+      "stock_availability": "Avaliable"
+    }
+  ]
+  
